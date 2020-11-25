@@ -6,4 +6,4 @@ console.log('apples')
 console.log('add stuff from merge_conflicts')
 
 asfsfsafsfdsfds
-adsfssdf
+console.log("This is a development.js file")

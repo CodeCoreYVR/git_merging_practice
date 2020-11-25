@@ -4,3 +4,5 @@ console.log('made some changes from master branch')
 console.log('apples')
 
 console.log('add stuff from merge_conflicts')
+
+console.log('new push')

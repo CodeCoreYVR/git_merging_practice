@@ -1,0 +1,1 @@
+A branch is a series of commits
